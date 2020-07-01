@@ -41,7 +41,12 @@ a{
     width: 40%;
     float: left;
     padding-left: 5%;
-   padding-top: 8%;
+    padding-top: 8%;
+}
+.left{
+   padding-top: 13%;
+   margin-left: 10%;
+   
 }
 
 
